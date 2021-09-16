@@ -1,0 +1,26 @@
+{
+  "id": "d5e971c6-116f-4126-b046-4d6efec2bcfd",
+  "name": "Shipping",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 59999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Shipping.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
